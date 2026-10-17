@@ -1,0 +1,23 @@
+UPS2MQTT Firmware — All Rights Reserved
+
+Copyright (c) 2026 Cymru Tech
+
+The compiled firmware binaries distributed through this repository's Releases are
+proprietary. They are provided to purchasers of UPS2MQTT hardware for use on that
+hardware only. The firmware source code is not published and no licence to it is
+granted.
+
+No permission is granted to copy (other than for installing on your own UPS2MQTT
+hardware), modify, decompile, disassemble, reverse engineer, redistribute,
+sublicense, sell, or create derivative works from the firmware, in whole or in part,
+except as expressly authorised in writing by Cymru Tech or as permitted by applicable
+law.
+
+This notice grants no rights to the EcoFlow protocol, the hardware design, or any
+third-party components, which remain the property of their respective owners.
+
+Documentation in this repository is licensed separately under CC BY 4.0 (see
+LICENSE-CC-BY-4.0).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Not affiliated
+with or endorsed by EcoFlow.
